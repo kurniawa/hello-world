@@ -1,3 +1,3 @@
 # hello-world
 
-Hi gua lagi agak bingung cara untuk menyelesaikan tugas ini gimana
+Selamat datang di git hub saya yang sangat bagus ini!
